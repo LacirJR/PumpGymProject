@@ -71,5 +71,16 @@ namespace PumpGymApis.Conexao
                 _sql.Close();
             }
         }
+
+        public void VerificarLogin(Entidades.Cliente cliente)
+        {
+            try 
+            {
+            }
+            catch
+            {
+
+            }
+        }
     }
 }
